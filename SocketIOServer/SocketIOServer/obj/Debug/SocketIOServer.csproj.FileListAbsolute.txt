@@ -1,0 +1,14 @@
+c:\users\t_mukum\documents\visual studio 2015\Projects\SocketIOServer\SocketIOServer\bin\Debug\SocketIOServer.exe.config
+c:\users\t_mukum\documents\visual studio 2015\Projects\SocketIOServer\SocketIOServer\bin\Debug\SocketIOServer.exe
+c:\users\t_mukum\documents\visual studio 2015\Projects\SocketIOServer\SocketIOServer\bin\Debug\SocketIOServer.pdb
+c:\users\t_mukum\documents\visual studio 2015\Projects\SocketIOServer\SocketIOServer\bin\Debug\Newtonsoft.Json.dll
+c:\users\t_mukum\documents\visual studio 2015\Projects\SocketIOServer\SocketIOServer\bin\Debug\SocketIOClient.dll
+c:\users\t_mukum\documents\visual studio 2015\Projects\SocketIOServer\SocketIOServer\bin\Debug\WebSocket4Net.dll
+c:\users\t_mukum\documents\visual studio 2015\Projects\SocketIOServer\SocketIOServer\bin\Debug\Newtonsoft.Json.pdb
+c:\users\t_mukum\documents\visual studio 2015\Projects\SocketIOServer\SocketIOServer\bin\Debug\Newtonsoft.Json.xml
+c:\users\t_mukum\documents\visual studio 2015\Projects\SocketIOServer\SocketIOServer\bin\Debug\SocketIOClient.pdb
+c:\users\t_mukum\documents\visual studio 2015\Projects\SocketIOServer\SocketIOServer\bin\Debug\SocketIOClient.xml
+c:\users\t_mukum\documents\visual studio 2015\Projects\SocketIOServer\SocketIOServer\bin\Debug\WebSocket4Net.pdb
+c:\users\t_mukum\documents\visual studio 2015\Projects\SocketIOServer\SocketIOServer\obj\Debug\SocketIOServer.csprojResolveAssemblyReference.cache
+c:\users\t_mukum\documents\visual studio 2015\Projects\SocketIOServer\SocketIOServer\obj\Debug\SocketIOServer.exe
+c:\users\t_mukum\documents\visual studio 2015\Projects\SocketIOServer\SocketIOServer\obj\Debug\SocketIOServer.pdb
