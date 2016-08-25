@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebSocketApp</string>
+    <string name="title_activity_login">Register</string>
+</resources>
